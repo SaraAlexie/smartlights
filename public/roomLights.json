@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Bedroom",
+        "lights": 4,
+        "image": "/imgs/bedroom.png"
+    },
+    {
+        "id": 2,
+        "name": "Living room",
+        "lights": 2,
+        "image": "/imgs/livingroom.png"
+    },
+    {
+        "id": 3,
+        "name": "Kitchen",
+        "lights": 5,
+        "image": "/imgs/kitchen.png"
+    },
+    {
+        "id": 4,
+        "name": "Bathroom",
+        "lights": 1,
+        "image": "/imgs/bathtub.png"
+    },
+    {
+        "id": 5,
+        "name": "Outdoor",
+        "lights": 5,
+        "image": "/imgs/house.png"
+    },
+    {
+        "id": 6,
+        "name": "Living room",
+        "lights": 2,
+        "image": "/imgs/balcony.png"
+    }
+]
